@@ -78,6 +78,7 @@
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
 - [Abdikarim Warsame](https://github.com/wasami)
+- [Samuel Montalvo](https://github.com/montal95)
 - [Suvam Prasad](https://github.com/SuvamPrasd)
 - [Rhonda Hill] (https://github.com/rhondachill)
 - [David Kacsor](https://github.com/DavidKacsor)
